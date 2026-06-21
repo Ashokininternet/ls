@@ -1,5 +1,6 @@
 # build artifacts (exact names, not wildcards)
 /ls
+/yo
 /main
 *.o
 *.ko
